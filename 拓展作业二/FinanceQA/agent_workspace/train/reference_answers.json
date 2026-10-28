@@ -1,0 +1,187 @@
+[
+  {
+    "question_id": "FQA-1640147-01",
+    "question": "What major strategic initiative did the company undertake to drive future growth?",
+    "answer": "The company has aggressively invested in AI and developer-focused products (e.g., Snowpark, Snowpark Container Services, Snowflake Intelligence) to expand use cases and drive higher consumption; this represents a significant, recent strategic shift toward AI-enabled offerings."
+  },
+  {
+    "question_id": "FQA-1640147-02",
+    "question": "How is the company's geographic and cloud footprint changing?",
+    "answer": "The company has been expanding its global, multi‑cloud and multi‑region footprint, increasing regional deployments and international focus over the past several years to support global customers and data sovereignty needs."
+  },
+  {
+    "question_id": "FQA-1640147-03",
+    "question": "What market-price risks arise from the company’s equity-based compensation and public listing?",
+    "answer": "Because the company relies heavily on stock-based compensation and has a large public float, it faces significant equity-price volatility risk that affects compensation expense and shareholders’ equity; this exposure has remained substantial as the company has continued to grow and grant equity awards in recent years."
+  },
+  {
+    "question_id": "FQA-1640147-04",
+    "question": "Where is the company directing its major investments and strategic initiatives?",
+    "answer": "The company significantly increased investments in research and development—particularly in AI technology and platform enhancements—while continuing to invest in sales and marketing to expand enterprise adoption and the AI Data Cloud network."
+  },
+  {
+    "question_id": "FQA-1640147-05",
+    "question": "What was the overall trend in the company's revenue growth?",
+    "answer": "Revenue showed strong growth in recent years, increasing significantly year-over-year (notably double-digit growth in the latest fiscal year) as the company expanded its customer base and usage."
+  },
+  {
+    "question_id": "FQA-1640147-06",
+    "question": "What major strategic product and technology initiatives did the company emphasize?",
+    "answer": "The company emphasized heavy investment in product innovation—especially AI, developer tools (Snowpark), container services, and the Native Application program—launching several capabilities recently and continuing R&D and platform investments."
+  },
+  {
+    "question_id": "FQA-1640147-07",
+    "question": "What are the primary types of market risk the company is exposed to?",
+    "answer": "The company is primarily exposed to foreign currency (FX) risk from growing international operations, interest rate and investment fair-value risk from large cash and marketable securities balances, equity/market-price risk tied to its public stock and stock-based compensation, and liquidity/credit risk including customer concentration; overall exposure to FX and interest-rate risks has increased in recent years as the business and global footprint expanded."
+  },
+  {
+    "question_id": "FQA-1640147-08",
+    "question": "What notable operational changes, acquisitions, or restructuring actions occurred during the year?",
+    "answer": "Snowflake completed the acquisition of Datavolo to bolster multimodal dataflow capabilities and also undertook certain restructuring actions (including costs at a majority‑owned subsidiary and planned office cease‑use) that produced related charges and asset adjustments during the year."
+  },
+  {
+    "question_id": "FQA-1640147-09",
+    "question": "How did profitability change over the reporting periods?",
+    "answer": "Profitability weakened — the company reported growing net losses in the most recent year, driven by rising operating costs despite revenue growth, reflecting a significant increase in losses over several years."
+  },
+  {
+    "question_id": "FQA-1682852-01",
+    "question": "What was the recent trend in the company's product sales and overall revenue from its COVID and RSV vaccines?",
+    "answer": "Product sales have declined significantly in the most recent year (2024) compared with prior years, driven largely by reduced demand for the COVID vaccine and a smaller-than-expected RSV market; this decline has materially impacted near-term revenue trends."
+  },
+  {
+    "question_id": "FQA-1682852-02",
+    "question": "What are the company's main business segments and which is currently most important?",
+    "answer": "Moderna’s business centers on four franchises—respiratory vaccines, latent/other virus vaccines, oncology therapeutics and rare disease therapeutics—with the respiratory franchise (commercial COVID and newly approved RSV vaccines) currently the most important for revenue while the other franchises are development‑stage growth areas."
+  },
+  {
+    "question_id": "FQA-1682852-03",
+    "question": "What is the company's overall approach to returning capital to shareholders (dividends vs. buybacks)?",
+    "answer": "The company does not pay cash dividends and states it does not expect to pay dividends for the foreseeable future; there is no discussion of a share buyback program in this item, so its capital return policy has remained focused away from cash dividends recently."
+  },
+  {
+    "question_id": "FQA-1682852-04",
+    "question": "What are the company's primary market risk exposures?",
+    "answer": "The company is mainly exposed to interest rate risk on its cash and marketable securities and to foreign currency risk from international sales, payments and operations; interest rate exposure is relatively modest while foreign currency exposure is a material focus in 2024."
+  },
+  {
+    "question_id": "FQA-1682852-05",
+    "question": "What was the overall trend in the company’s revenue between 2022 and 2024?",
+    "answer": "Revenue declined markedly over the period, driven by a sharp drop in COVID vaccine sales from 2022 into 2023 and 2024, with only a small contribution from the newly approved RSV product in 2024."
+  },
+  {
+    "question_id": "FQA-1682852-06",
+    "question": "How have commercial dynamics and market share evolved for the company's vaccines?",
+    "answer": "Commercial challenges and competitive pressure increased in the recent period, resulting in loss of COVID market share and difficulty gaining share for RSV against larger rivals; the company reports needing to adapt its commercial strategy and potentially spend more to compete."
+  },
+  {
+    "question_id": "FQA-1682852-07",
+    "question": "What are the company's primary revenue sources and how are they changing recently?",
+    "answer": "Revenue has been driven primarily by its COVID vaccine (Spikevax), but in 2024 the company became a multi‑product commercial firm with approval of an RSV vaccine (mRESVIA), so the business is beginning to diversify beyond a single product while Spikevax remains the dominant near‑term source."
+  },
+  {
+    "question_id": "FQA-1682852-08",
+    "question": "Has the company changed its dividend policy in the most recent period?",
+    "answer": "No material change is indicated; the company reiterates that it has never paid cash dividends and does not expect to begin paying them in the foreseeable future, so the dividend stance has remained stable."
+  },
+  {
+    "question_id": "FQA-1682852-09",
+    "question": "How would changes in interest rates affect the company's investment portfolio?",
+    "answer": "Because the portfolio is concentrated in short-term, low-risk securities, interest rate sensitivity is limited and considered modest; a uniform 1% immediate rise in rates in 2024 would reduce the portfolio's fair value by roughly fifty million dollars, indicating a limited but measurable exposure."
+  },
+  {
+    "question_id": "FQA-1682852-10",
+    "question": "How did profitability change in the most recent years?",
+    "answer": "Profitability swung from a substantial net profit in 2022 to net losses in 2023 and 2024, as lower product revenue combined with sustained high R&D and operating costs turned operating income into material operating losses."
+  },
+  {
+    "question_id": "FQA-1373715-01",
+    "question": "What business-model or financial-reporting risk is highlighted related to subscriptions?",
+    "answer": "Because subscription revenue is recognized over contract terms, declines in new sales or renewals may not immediately show in results, and the company notes that revenue-growth rates are likely to decelerate as the business matures in recent years."
+  },
+  {
+    "question_id": "FQA-1373715-02",
+    "question": "Were there any notable accounting matters or adjustments highlighted in the financial statements?",
+    "answer": "Yes — share‑based compensation continued to be a significant accounting item, resulting in adjustments to additional paid‑in‑capital and related deferred tax effects; the company also reported material deferred tax assets and related tax adjustments in the recent period."
+  },
+  {
+    "question_id": "FQA-1373715-03",
+    "question": "How is the company positioned with respect to AI (Now Assist) and what is the recent trend?",
+    "answer": "The company has significantly increased embedding Generative AI and agentic AI across its Now Platform (Now Assist), expanding AI features and product integrations in the recent year(s); this is a growing, strategic focus to drive customer value and product differentiation."
+  },
+  {
+    "question_id": "FQA-1373715-04",
+    "question": "How did the company’s operating expense profile change during the period?",
+    "answer": "Operating expenses increased, notably in cost of revenue and sales/marketing (including advertising), as the company invested to support growth; these expense increases were significant in the most recent year compared with prior periods."
+  },
+  {
+    "question_id": "FQA-1373715-05",
+    "question": "What regulatory and data-related compliance risks does the company highlight?",
+    "answer": "Regulatory scrutiny of data use, transfers and residency (e.g., EU Data Act and trans-Atlantic data frameworks) has increased, creating significant and growing compliance burdens that require region-specific hosting and controls and could restrict service delivery."
+  },
+  {
+    "question_id": "FQA-1373715-06",
+    "question": "What is the general picture of the company’s debt levels and structure?",
+    "answer": "The company carries long‑term convertible debt (from the 2020 indenture) and short‑term portions as applicable, but overall leverage is modest relative to its asset base, with debt structured around convertible instruments rather than extensive traditional bank borrowings."
+  },
+  {
+    "question_id": "FQA-1373715-07",
+    "question": "Overall, did the company's liquidity and asset base strengthen or weaken in the most recent period?",
+    "answer": "The company’s liquidity and asset base strengthened, driven by increases in cash, cash equivalents and short-term investments and a growth in current assets compared with prior periods, indicating a stronger short‑term financial position in the recent year."
+  },
+  {
+    "question_id": "FQA-1373715-08",
+    "question": "What major change occurred in the balance sheet composition related to customer contracts or deferred revenue?",
+    "answer": "Deferred revenue and contract liabilities increased materially over the recent period, reflecting growing subscription and prepayment activity and shifting a larger portion of the balance sheet toward non‑current customer liabilities."
+  },
+  {
+    "question_id": "FQA-702165-01",
+    "question": "How did the company's freight volumes and revenue intensity trend recently?",
+    "answer": "Freight volumes (revenue ton miles) remained generally stable over the past several years, with little change into 2024, while revenue per thousand revenue ton miles showed a modest decline in the most recent year."
+  },
+  {
+    "question_id": "FQA-702165-02",
+    "question": "Which market risks are most important for Norfolk Southern in the period covered?",
+    "answer": "The company’s most important market exposures are commodity price risk (primarily fuel) and interest rate/financing risk; currency risk appears to be minimal.  These drive operating cost volatility and debt service costs in the recent-year period."
+  },
+  {
+    "question_id": "FQA-702165-03",
+    "question": "What was the overall trend in the company's freight volumes and operating revenue in the most recent year?",
+    "answer": "Freight volumes and operating revenues were essentially stable in the most recent year, with revenue ton-miles roughly flat year-over-year and total railway operating revenues remaining at a similar level (modest change) compared with the prior year."
+  },
+  {
+    "question_id": "FQA-702165-04",
+    "question": "What was the overall trend in the company's revenues and traffic volumes?",
+    "answer": "Total railway operating revenue was roughly stable in the most recent year while underlying traffic (revenue ton-miles) remained largely unchanged over the past several years; revenue per ton-mile showed a slight year‑over‑year decline. This points to steady volume with modest pressure on yield in the latest period."
+  },
+  {
+    "question_id": "FQA-702165-05",
+    "question": "What happened to the company's operating efficiency (railway operating ratio) in the recent period?",
+    "answer": "Operating efficiency improved materially in 2024 versus 2023, as the railway operating ratio decreased significantly, indicating a meaningful reduction in operating expenses relative to revenues in the most recent year."
+  },
+  {
+    "question_id": "FQA-702165-06",
+    "question": "How did exposure to fuel (commodity) cost risk change recently?",
+    "answer": "Fuel cost pressure eased in the most recent year — fuel expense declined noticeably in 2024 compared with 2023 and 2022, reducing near-term commodity cost risk.  This represents a significant short‑term improvement in operating-cost volatility."
+  },
+  {
+    "question_id": "FQA-702165-07",
+    "question": "How did overall profitability margins change and what drove that change?",
+    "answer": "Profitability improved noticeably in the most recent year as the railway operating ratio declined (an improvement), primarily driven by lower operating expense relative to revenue and cost control efforts compared with the prior year."
+  },
+  {
+    "question_id": "FQA-702165-08",
+    "question": "How did operating efficiency and profitability change during the period?",
+    "answer": "Operating efficiency improved materially in the most recent year, with the railway operating ratio declining significantly, indicating lower operating expenses relative to revenues and a notable improvement in profitability trends year‑over‑year."
+  },
+  {
+    "question_id": "FQA-702165-09",
+    "question": "Did the company increase capital investment or make any major asset acquisitions?",
+    "answer": "Yes — capital investment and property additions were substantially higher in 2024 and the company completed a significant acquisition (a 337‑mile CSR line) in 2024, reflecting a notable increase in capital spending and network investment in the recent year."
+  },
+  {
+    "question_id": "FQA-702165-10",
+    "question": "How did interest rate or financing risk trend during the period?",
+    "answer": "Interest‑related risk increased in the most recent year as interest expense rose in 2024 versus prior years, indicating higher debt service costs and greater sensitivity to interest rates.  This is a modest-to-significant increase in financing cost pressure over the recent-year timeframe."
+  }
+]

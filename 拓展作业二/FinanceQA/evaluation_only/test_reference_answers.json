@@ -1,0 +1,97 @@
+[
+  {
+    "question_id": "FQA-1321655-01",
+    "question": "What is the recent trend in the company’s profitability and operating expenses?",
+    "answer": "After a long history of GAAP losses, the company achieved profitability in recent quarters, but it expects operating expenses to continue increasing as it scales—overall profitability is recent and fragile while costs are rising."
+  },
+  {
+    "question_id": "FQA-1321655-02",
+    "question": "How are the company's primary revenue sources shifting between government and commercial customers?",
+    "answer": "The company continues to derive significant revenue from government customers but has been increasing its commercial business in recent years; the commercial mix has grown and account relationships have deepened while government remains a meaningful, stable source of revenue."
+  },
+  {
+    "question_id": "FQA-1321655-03",
+    "question": "Which types of market risk does the company identify as most significant?",
+    "answer": "The company highlights equity valuation risk (both publicly traded and privately held securities) as the primary market exposure, with foreign currency, interest rate, and inflation risks described as present but relatively less significant in the recent year (as of year-end 2024)."
+  },
+  {
+    "question_id": "FQA-1321655-04",
+    "question": "What was the overall trend in the company's revenue during the period?",
+    "answer": "Revenue increased materially, showing solid year‑over‑year growth with a significant uptick in the most recent year (2024) compared with 2023 and 2022."
+  },
+  {
+    "question_id": "FQA-1321655-05",
+    "question": "What was the trend in the company’s revenue growth?",
+    "answer": "Revenue has increased in recent periods, but the company’s revenue growth rate has slowed or become more variable in certain recent periods and may continue to decelerate."
+  },
+  {
+    "question_id": "FQA-1321655-06",
+    "question": "Which product platforms are central to the business and how are they evolving?",
+    "answer": "Gotham and Foundry are the core, long-standing platforms, Apollo enables broad and continuous deployment, and AIP—introduced recently—is being rolled out and bundled with existing platforms; overall the platforms are being integrated and expanded to increase adoption across customers."
+  },
+  {
+    "question_id": "FQA-1321655-07",
+    "question": "How has the company's exposure to equity valuation volatility behaved recently?",
+    "answer": "Exposure has remained subject to volatility and potential impairment risks because many holdings are early- or growth-stage and illiquid; the company has sold some public holdings and may continue to do so, indicating ongoing but manageable valuation volatility in the recent year."
+  },
+  {
+    "question_id": "FQA-1321655-08",
+    "question": "How did profitability change over the recent years?",
+    "answer": "Profitability improved markedly: the company moved from a loss in the earlier year to positive net income in 2023 and a substantially higher net income in 2024, reflecting stronger operating results and improved margins."
+  },
+  {
+    "question_id": "FQA-1321655-09",
+    "question": "How concentrated is the company’s customer base and why is that a risk?",
+    "answer": "A limited number of customers account for a substantial portion of revenue, so reductions or terminations by a few large customers could have a significant negative impact—customer concentration remains a meaningful near-term risk."
+  },
+  {
+    "question_id": "FQA-1321655-10",
+    "question": "How is the company scaling within accounts and what trend is visible in customer relationships?",
+    "answer": "The company is expanding usage within existing accounts and growing larger relationships over time, evidenced by more extensive deployments and increased average revenue per top accounts in the recent period, indicating deeper penetration rather than only acquiring many small customers."
+  },
+  {
+    "question_id": "FQA-1800-01",
+    "question": "How have global supply chain disruptions been described as affecting Abbott's operations recently?",
+    "answer": "Supply chain disruptions have been characterized as a significant, ongoing risk that increased costs and constrained availability of raw materials and supplies in recent years (notably during the COVID-19 period) and could continue to negatively affect results."
+  },
+  {
+    "question_id": "FQA-1800-02",
+    "question": "What are Abbott’s primary revenue sources and how have they been changing recently?",
+    "answer": "Abbott derives revenue from four main segments — Established Pharmaceutical Products, Diagnostic Products, Nutritional Products, and Medical Devices — and the company presents a diversified mix; in recent years the company has placed increasing emphasis on diagnostics and medical devices (including SARS‑CoV‑2 diagnostics and continuous glucose monitoring) as growth drivers while maintaining stable revenues from nutrition and established pharmaceuticals."
+  },
+  {
+    "question_id": "FQA-1800-03",
+    "question": "How does Abbott manage its foreign currency exposure and did that exposure change recently?",
+    "answer": "Abbott uses foreign currency forward contracts to hedge anticipated intercompany purchases, intercompany loans and trade payables/receivables, and it increased notional forward contract activity modestly year‑over‑year, indicating a slight rise in hedged foreign‑exchange exposure in 2024. (Comparing year‑end 2023 to 2024.)"
+  },
+  {
+    "question_id": "FQA-1800-04",
+    "question": "What major transactions or initiatives affected 2024 results?",
+    "answer": "Key items included acquisitions (e.g., Bigfoot and earlier CSI integration), the sale of a non-core Established Pharmaceutical business (with a related loss and OCI impact), restructuring actions with severance/inventory/impairments, and ongoing share buybacks plus dividends."
+  },
+  {
+    "question_id": "FQA-1800-05",
+    "question": "What risks does Abbott highlight related to acquisitions, dispositions, or strategic alliances?",
+    "answer": "Abbott notes a higher risk profile when pursuing acquisitions or dispositions — these activities can lead to substantial expenses, integration challenges, contingent liabilities, impairment charges, and increased debt, which could materially reduce profitability and credit flexibility over the near term."
+  },
+  {
+    "question_id": "FQA-1800-06",
+    "question": "Is Abbott primarily a domestic or international company, and has that geographic focus changed?",
+    "answer": "Abbott is a materially international company with significant operations and sales worldwide (the majority of its workforce is outside the U.S.), and this international focus has remained stable and central to its business strategy in the recent period."
+  },
+  {
+    "question_id": "FQA-1800-07",
+    "question": "What is the trend in Abbott’s interest rate exposure and how material is interest‑rate risk?",
+    "answer": "Abbott maintains interest‑rate hedge contracts to manage fair‑value exposure on some debt and its long‑term debt fair value declined modestly year‑over‑year; the company states that a 100‑basis‑point rate change would not have a material effect, so interest‑rate risk is relatively contained. (As of December 31, 2024 vs 2023.)"
+  },
+  {
+    "question_id": "FQA-1800-08",
+    "question": "How did overall profitability change in 2024 and what mainly drove that change?",
+    "answer": "Profitability improved sharply in 2024 with a large increase in net earnings and EPS, largely driven by a significant tax benefit in 2024 rather than a proportionally large operating profit gain."
+  },
+  {
+    "question_id": "FQA-1800-09",
+    "question": "What are Abbott’s main business segments and are they balanced or concentrated?",
+    "answer": "Abbott’s business is organized into four distinct segments (Established Pharmaceuticals, Diagnostics, Nutrition, and Medical Devices), reflecting a balanced, diversified portfolio rather than reliance on a single segment; the company emphasizes broad product portfolios and multiple therapeutic and device areas to spread commercial risk."
+  }
+]

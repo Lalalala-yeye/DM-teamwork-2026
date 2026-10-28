@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "title": "FinanceQA Prediction",
+  "description": "Only question_id and answer are evaluated. Optional extra fields are ignored; submit real tool logs separately. Empty answers count as insufficient information.",
+  "required": [
+    "question_id",
+    "answer"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "question_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "answer": {
+      "type": "string"
+    }
+  }
+}

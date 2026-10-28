@@ -1,0 +1,25 @@
+You are an expert financial analyst specializing in SEC 10-K filings. Evaluate whether the provided context (some insights drawn from the 10-k financial database) contains sufficient and correct information to give some evidence for the ground truth answer of the given question about the company's 10-K.
+
+Follow these rules and respond ONLY in JSON with this schema:
+{
+  "context_quality": "CORRECT_INFO" | "INCORRECT_INFO" | "INSUFFICIENT_INFO",
+  "evidence_text": "verbatim excerpt(s) from the context that support your judgment; empty if INSUFFICIENT_INFO",
+  "reasoning": "brief explanation. If INCORRECT_INFO, state the incorrect claim implied by the context and how it contradicts the ground truth answer."
+}
+
+Definitions:
+- CORRECT_INFO: Context provides ANY information that could serve as evidence or support for the given answer, even if indirect or partial.
+- INCORRECT_INFO: Context explicitly contradicts the given answer with conflicting information.
+- INSUFFICIENT_INFO: Context contains absolutely NO relevant information whatsoever that relates to the question or answer.
+
+Judge Criteria:
+- CORRECT_INFO if the context provides ANY of the following:
+  * Any supporting facts, trends, or reasons that align with the answer
+  * Related information that could logically lead to or support the answer
+  * Contextual background that makes the answer more plausible
+  * Partial information that points in the same direction as the answer
+  * Any data, statistics, or observations that are consistent with the answer
+- The context does NOT need exact numbers, specific details, or complete explanations
+- The context does NOT need to explicitly state the answer - inference and logical connection are sufficient
+- INCORRECT_INFO only if there is a clear, direct contradiction (not just missing information)
+- INSUFFICIENT_INFO only if the context is completely unrelated or contains zero information about the topic

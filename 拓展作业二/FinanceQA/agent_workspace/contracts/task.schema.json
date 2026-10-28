@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "title": "FinanceQA Task",
+  "required": [
+    "question_id",
+    "company_cik",
+    "question"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "question_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "company_cik": {
+      "type": "string",
+      "pattern": "^[0-9]+$"
+    },
+    "question": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

@@ -1,0 +1,8 @@
+Context:
+{context}
+
+Question: {question}
+
+Ground Truth Answer: {ground_truth}
+
+Return ONLY the JSON object, with no additional text.

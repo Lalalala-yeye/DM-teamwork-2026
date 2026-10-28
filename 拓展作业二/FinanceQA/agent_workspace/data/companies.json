@@ -1,0 +1,38 @@
+[
+  {
+    "cik": "1640147",
+    "name": "Snowflake Inc.",
+    "split": "train",
+    "question_count": 9
+  },
+  {
+    "cik": "1682852",
+    "name": "Moderna, Inc.",
+    "split": "train",
+    "question_count": 10
+  },
+  {
+    "cik": "1373715",
+    "name": "ServiceNow, Inc.",
+    "split": "train",
+    "question_count": 8
+  },
+  {
+    "cik": "702165",
+    "name": "NORFOLK SOUTHERN CORP",
+    "split": "train",
+    "question_count": 10
+  },
+  {
+    "cik": "1321655",
+    "name": "Palantir Technologies Inc.",
+    "split": "test",
+    "question_count": 10
+  },
+  {
+    "cik": "1800",
+    "name": "ABBOTT LABORATORIES",
+    "split": "test",
+    "question_count": 9
+  }
+]
